@@ -1,0 +1,8 @@
+
+const videoAmd = new Producto(6, "gpu", "Placa de video AMD", "Radeon 6700 XT", 739, "img/radeon6700.jpg");
+const teclado = new Producto(7, "perifericos", "Teclado Corsair", "K70 Pro Mini", 169, "img/corsairKeyboard.jpg");
+const mouse = new Producto(8, "perifericos", "Mouse Corsair", "M65 Pro Elite", 38, "img/corsairMouse.jpg");
+const headset = new Producto(9, "perifericos", "Heaset Corsair", "HS80 Wireless", 133, "img/corsairHeadset.jpg");
+const tecladoHyperx = new Producto(13, "perifericos", "Teclado HyperX", "Allow Origins 60", 79, "img/hyperxKeyboard.jpg");
+const mouseHyperx = new Producto(14, "perifericos", "Mouse HyperX", "Pulsfaire Raid", 50, "img/hyperxMouse.jpg");
+const videoNvidia2 = new Producto(15, "gpu", "Placa de video Nvidia", "Zotac 3080 ti", 1329, "img/zotac3080.jpg");
